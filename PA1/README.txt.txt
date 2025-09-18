@@ -1,0 +1,1 @@
+We don't have notebook checkpoints, because they weren't automatically created. We used jupyter notebook in visual studio code so maybe that's the reason.
